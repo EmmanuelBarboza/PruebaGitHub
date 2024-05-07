@@ -6,9 +6,14 @@ namespace PruebaGitHub.Models
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo");
+
+
+            var adios = "Esto es otra prueba";
+
+            Console.WriteLine("Hola Mundo","Adios Mundo");
 
             var prueba = "Esto es una prueba";
+
 
         }
     }
